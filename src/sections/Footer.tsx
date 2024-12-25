@@ -22,7 +22,7 @@ const footerSections = {
   company: {
     title: "Company",
     links: [
-      { title: "Calestials", href: "#" },
+      { title: "Payments", href: "https://calestialsites.netlify.app/qr" },
       { title: "FAQ", href: "#" },
       { title: "Terms of Service", href: "#" },
     ],
